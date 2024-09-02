@@ -1,0 +1,55 @@
+GHANA COMMUNICATON TECHNOLOGY UNIVERSITY(GCTU)  
+
+DIPLOMA IN INFORMATION TECHNOLOGY GROUP: B FACULTY OF COMPUTING INFORMATION SYSTEMS COURSE: MULTIMEDIA AND WEB DEVELOPMENT 
+
+NAME: MONCAR CHARLES NII AYERH 
+
+INDEX NUMBER: 1704979935  
+
+ (THIS IS A BACK UP IN CASE THE MICROSOFT OFFICE DOCUMENT HAS PROBLEMS)
+
+PROJECT DOCUMENTATION 
+
+-My HTML project overview: 
+
+This project contains the use of the video tag<video>, audio tag <audio> and image tag <img >. the objectives which were to add media elements which is text, video. Audio and image to a website. Pardon me if i did not get the live part correct. 
+
+Features 
+
+Image: A placeholder image to demonstrate the <img> tag. 
+
+Video: A sample video file to show how the <video> tag works. 
+
+Audio: An example of an audio file using the <audio> tag. 
+
+<meta charset="UTF-8">: This tag specifies the character encoding for the HTML document. "UTF-8" is a character set that includes almost all characters from all the languages in the world. This ensures that the text on your webpage displays correctly, especially if it includes special characters or symbols. 
+
+ 
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">: This tag controls how the webpage is displayed on different devices, especially on mobile devices.  
+
+In the code a style tag <style> was used to add an image to the background of the page. This is a CSS tag and is used to add style to the page  
+
+Also, text sizing was used (<H1>,<H2>,<H3>)they were used to adjust the size of the texts in the code. 
+
+Other CSS used are : 
+
+ 
+
+Container Styling: The .container class provides a centered, boxed layout with a maximum width and padding, creating a clean and structured area for content. 
+
+ 
+
+Flexbox for Images: The. image-section uses Flexbox (display: flex;) with a gap to create space between images and justify-content: space-between; to distribute images evenly. This layout ensures the images are aligned side-by-side on larger screens and stack on smaller screens. 
+
+ 
+
+Responsive Video and Audio: The .video-section and .audio-section classes ensure that both video and audio elements are centered and responsive. The width is set to 100% with a maximum width constraint to ensure they resize appropriately on different screen sizes. To reduce the size of the video for better quality I changed the video witdth to 50 
+
+ 
+
+Media Queries: The @media query ensures that on screens smaller than 768px, the images stack vertically, and the width constraints adjust to fit the smaller screen sizes, making the layout responsive. 
+
+ 
+
+  
